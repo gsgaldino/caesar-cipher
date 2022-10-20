@@ -4,8 +4,8 @@ This is a simple project that implements a cryptography program based on the Cae
 ### Prerequisites
 Before we start, make sure you have the following ones:
 
-* Latest version of [nodejs](https://nodejs.org/en/)
-* Machine with `<Linux / Windows(WSL)>`
+* Machine with `<Linux / Mac / Windows>`
+* Active installation 12^ of [nodejs](https://nodejs.org/en/)
 
 ### Installing the project
 To install the project dependencies run the following command on your bash, in the same directory of the project:
