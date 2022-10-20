@@ -1,0 +1,30 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "Simple and quick Caesar cipher implementation based on ptBR alphabet",
+  "main": "index.ts",
+  "scripts": {
+    "test": "node test.ts",
+    "start": "npx tsc && node dist/index.js",
+    "compile": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsgaldino/caesar-cipher.git"
+  },
+  "keywords": [
+    "Caesar",
+    "Cipher",
+    "Criptography"
+  ],
+  "author": "gsgaldino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsgaldino/caesar-cipher/issues"
+  },
+  "homepage": "https://github.com/gsgaldino/caesar-cipher#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.3",
+    "typescript": "^4.8.4"
+  }
+}
