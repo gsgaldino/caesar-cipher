@@ -24,7 +24,7 @@ $ npm start foo
 Output:
 
 ```
-irrC
+irr
 ```
 
 The project was based on ptBR alphabet so you can use accent words as well e.g:
@@ -36,5 +36,5 @@ $ npm start "Áwesóme próJect"
 Output:
 
 ```
-ázhvCph suCMhfwC
+ázhvCph suCMhfw
 ```

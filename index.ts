@@ -5,7 +5,7 @@ function caesar(phrase: String) {
  let iterator = 0;
  let output = "";
 
- for (iterator; iterator <= phrase.length; iterator++) {
+ for (iterator; iterator < phrase.length; iterator++) {
   const letter = phrase[iterator];
   const index = alphabet.indexOf(letter);
   const newIndex = index + 3;
