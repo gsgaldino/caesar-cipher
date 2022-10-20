@@ -11,15 +11,14 @@ Before we start, make sure you have the following ones:
 To install the project dependencies run the following command on your bash, in the same directory of the project:
 
 ```
-npm i
+$ npm i
 ```
 
 ### Running the project
 To run the project, you can call the start command, followed by the string that you want to encode e.g:
 
 ```
-
-npm start foo
+$ npm start foo
 ```
 
 Output:
@@ -31,7 +30,7 @@ irrC
 The project was based on ptBR alphabet so you can use accent words as well e.g:
 
 ```
-npm start "Áwesóme próJect"
+$ npm start "Áwesóme próJect"
 ```
 
 Output:
